@@ -1,4 +1,4 @@
-<h2 align="left">Sampurasun~🙏 <br>My name is Iqbal and I'm a Data Scientist, from Pasundan</h2>
+<h2 align="left">Sampurasun~🙏 <br>My name is Iqbal and I'm a Data Scientist, from Parahyangan</h2>
 
 <br clear="both">
 
